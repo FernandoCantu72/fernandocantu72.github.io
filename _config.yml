@@ -1,6 +1,5 @@
 title: Fernando Cantu Jr.
-
-Description: Program Manager/Analyst Portfolio
-Theme: jekyll-theme-minimal
-Logo: https://raw.githubusercontent.com/FernandoCantu72/fernandocantu72.github.io/refs/heads/main/Docs/img/avitar.png
+description: Program Manager/Analyst Portfolio
+theme: jekyll-theme-minimal
+logo: /Docs/img/avitar.png
 show_downloads: false
