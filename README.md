@@ -26,4 +26,14 @@ Implement data retrieval procedures to the satisfaction of CG-REG-1 leadershipâ€
 
 *INFORMATION ASSURANCE AND CYBER DEFENSE:* Responsible for implementing and maintaining cybersecurity measures that protect Navy networks against internal and external threats. Conduct vulnerability scans, oversee user access control, and respond to cyber incidents. By maintaining accreditation documentation and compliance with the Risk Management Framework (RMF), IT1s ensure the confidentiality, integrity, and availability of Navy communications systems. Train junior sailors on safe information-handling practices and cyber hygiene.<br>
 
-*COMMUNICATIONS SYSTEMS MANAGERMENT:* Information Systems Technicians operate and maintain satellite communications (SATCOM), radio frequency (RF), and secure IP-based systems to sustain operational communications across the fleet. The IT1 configures and supports secure voice and data systems, including VoIP and cryptographic devices, to guarantee continuous connectivity between shipboard and shore-based networks. Their work ensures that tactical data, operational orders, and intelligence traffic flow reliably and securely at all times.<br>
+*COMMUNICATIONS SYSTEMS MANAGEMENT:* Information Systems Technicians operate and maintain satellite communications (SATCOM), radio frequency (RF), and secure IP-based systems to sustain operational communications across the fleet. The IT1 configures and supports secure voice and data systems, including VoIP and cryptographic devices, to guarantee continuous connectivity between shipboard and shore-based networks. Their work ensures that tactical data, operational orders, and intelligence traffic flow reliably and securely at all times.<br>
+
+## Education
+### UT Tyler - 2024
+**MBA in Data Analytics**
+
+### Park University - 2005
+**BS in Management/Computer Information Systems**
+
+### McAllen High School - 1990
+**Diploma**
