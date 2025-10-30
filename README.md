@@ -30,10 +30,10 @@ Implement data retrieval procedures to the satisfaction of CG-REG-1 leadershipâ€
 
 ## Education
 ### UT Tyler - 2024
-**MBA in Data Analytics**
+   **MBA in Data Analytics**
 
 ### Park University - 2005
-**BS in Management/Computer Information Systems**
+   **BS in Management/Computer Information Systems**
 
 ### McAllen High School - 1990
-**Diploma**
+   **Diploma**
